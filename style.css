@@ -1,0 +1,24 @@
+.pro_edu {
+    color: rgb(102, 102, 102);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-item {
+    position: relative;
+}
+
+.img {
+    filter: brightness(50%);
+}
+
+.text {
+    color: rgb(216, 216, 216);
+    font-size: 1.3vw;
+}
+
+.h2 {
+    font-size: 4vw;
+}
