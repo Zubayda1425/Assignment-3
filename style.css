@@ -58,3 +58,14 @@ footer {
     height: 370px;
     background-color: rgba(22, 22, 22, 1);
 }
+
+.fa-brands {
+    width: 35px;
+    height: 35px;
+    font-size: 17px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: rgb(43, 42, 42);
+}
